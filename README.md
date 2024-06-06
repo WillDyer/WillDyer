@@ -9,7 +9,6 @@
 
 ### 🌱 I’m currently learning:
 - Switching to Linux Fedora
-- 
 
 ### 🔭 I’m currently working on:
 - Maya Modular Rigging
