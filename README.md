@@ -8,6 +8,7 @@
 
 ### 🌱 I’m currently learning:
 - Switching to Linux Fedora
+- Modular/Customisable systems within python
 
 ### 🔭 I’m currently working on:
 - Maya Modular Rigging
