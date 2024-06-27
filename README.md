@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white">
 </p>
 
-## Who am I?
+<!-- ## Who am I? -->
 
  ```python
   class WhoAmI:
