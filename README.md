@@ -9,21 +9,22 @@
 
  ```python
   class WhoAmI:
-    user = 'Will Dyer'
-	current_edu = "UHAnimation"
-    currently_learning = "Linux Fedora"
-    fun_fact = "I hate Fish"
-	hobbies = [
-        'Music',
-        'Chilling',
-	    'Esports',
-	    'Star Wars'
-	]
+	def __init__(self):
+		user = 'Will Dyer'
+		current_edu = "UHAnimation"
+		currently_learning = "Linux Fedora"
+		fun_fact = "I hate Fish"
+		hobbies = [
+	        'Music',
+	        'Chilling',
+		   'Esports',
+		   'Star Wars'
+		]
 	
-	def getCity():
+	def getCity(self):
 		return London_Area()
 	
-	def Ambitions():
+	def Ambitions(self):
 		BecomeJuniorRiggingArtist()
 		FinishMyProjects()
 	
