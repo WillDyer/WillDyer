@@ -16,7 +16,7 @@
 		fun_fact = "I hate Fish"
 		hobbies = [
 	        'Music',
-	        'Chilling',
+	        'Photography',
 		   'Esports',
 		   'Star Wars'
 		]
