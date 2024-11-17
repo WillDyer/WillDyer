@@ -1,5 +1,4 @@
 <h1 align="center">Will Dyer</h1>
-<h3 align="center">Rigging & Creature TD</h3>
 <p align="center"}>
   <img src="https://img.shields.io/badge/Maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -13,6 +12,7 @@
   class WhoAmI:
 	def __init__(self):
 		user = 'Will Dyer'
+		title = 'Rigging & Creature TD'
 		current_edu = "UHAnimation"
 		currently_learning = "Linux Fedora"
 		fun_fact = "I hate Fish"
