@@ -15,7 +15,7 @@
 		title = 'Rigging & Creature TD'
 		current_edu = "UHAnimation"
 		currently_learning = "Linux Fedora"
-		fun_fact = "I hate Fish"
+		fun_fact = "I hate fish"
 		hobbies = [
 	        'Music',
 	        'Photography',
