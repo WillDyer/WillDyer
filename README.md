@@ -13,21 +13,21 @@
 	def __init__(self):
 		user = 'Will Dyer'
 		title = 'Rigging & Creature TD'
-		current_edu = "UHAnimation"
-		currently_learning = "Linux Fedora"
+		past_edu = "UHAnimation"
+		currently_learning = ["CFX", "Another Language"]
 		fun_fact = "I hate fish"
 		hobbies = [
 	        'Music',
 	        'Photography',
-		   'Esports',
-		   'Star Wars'
+		'Esports',
+		'Star Wars'
 		]
 	
 	def getCity(self):
 		return London_Area()
 	
 	def Ambitions(self):
-		BecomeJuniorRiggingArtist()
+		StartCFXJob()
 		FinishMyProjects()
 	
  ```
