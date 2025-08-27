@@ -12,6 +12,7 @@
   class WhoAmI:
 	def __init__(self):
 		user = 'Will Dyer'
+		working_at = '?'
 		title = 'Rigging & Creature TD'
 		past_edu = "UHAnimation"
 		currently_learning = ["CFX", "Another Language"]
