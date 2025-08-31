@@ -12,13 +12,13 @@
  ```python
   class WhoAmI:
 	def __init__(self):
-		user = 'Will Dyer'
-		working_at = '?'
-		title = 'Rigging & Creature TD'
-		past_edu = "UHAnimation"
-		currently_learning = ["CFX", "Another Language"]
-		fun_fact = "I hate fish"
-		hobbies = [
+		self.user = 'Will Dyer'
+		self.working_at = '?'
+		self.title = 'Rigging & Creature TD'
+		self.past_edu = "UHAnimation"
+		self.currently_learning = ["CFX", "Another Language"]
+		self.fun_fact = "I hate fish"
+		self.hobbies = [
 	        'Music',
 	        'Photography',
 			   'Esports',
@@ -40,4 +40,4 @@
 <a href="https://github.com/WillDyer/maya_control_picker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WillDyer&repo=maya_control_picker&theme=github_dark" /></a>
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=WillDyer&&show_icons=true&count_private=true&theme=github_dark&hide_rank=True">			<img src="https://parkerbritt.com/streak-stats?user=WillDyer&theme=blueberry_duo"/>
+<img src="https://github-readme-stats.vercel.app/api?username=WillDyer&&show_icons=true&count_private=true&theme=github_dark&hide_rank=True">			<img src="https://cards.parkerbritt.com/streak-stats?user=WillDyer&theme=blueberry_duo"/>
