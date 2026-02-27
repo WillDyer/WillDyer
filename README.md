@@ -36,8 +36,8 @@
 	
  ```
 ## Currently Working on
-<a href="https://git-readme-stats.parkerbritt.com/api/pin/?username=WillDyer&repo=maya_modular_rigging&theme=github_dark" /></a>
-<a href="https://git-readme-stats.parkerbritt.com/api/pin/?username=WillDyer&repo=nodeeditor&theme=github_dark" /></a>
+<img src="https://git-readme-stats.parkerbritt.com/api/pin/?username=WillDyer&repo=maya_modular_rigging&theme=github_dark" /></a>
+<img src="https://git-readme-stats.parkerbritt.com/api/pin/?username=WillDyer&repo=nodeeditor&theme=github_dark" /></a>
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=WillDyer&&show_icons=true&count_private=true&theme=github_dark&hide_rank=True">			<img src="https://cards.parkerbritt.com/streak-stats?user=WillDyer&theme=blueberry_duo"/>
