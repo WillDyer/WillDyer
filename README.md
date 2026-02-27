@@ -11,26 +11,32 @@
 
  ```python
   class WhoAmI:
-	def __init__(self):
-		self.user = 'Will Dyer'
-		self.working_at = 'Industrial Light & Magic'
-		self.title = 'Graduate Creature Artist'
-		self.past_edu = "UHAnimation"
-		self.currently_learning = ["CFX", "Another Language"]
-		self.fun_fact = "I hate fish"
-		self.hobbies = [
-	        'Music',
-	        'Photography',
-			   'Esports',
-			   'Star Wars'
-		]
-	
-	def getCity(self):
-		return London_Area()
-	
-	def Ambitions(self):
-		StartCFXJob()
-		FinishMyProjects()
+    """A simple representation of personal information and goals."""
+
+    def __init__(self):
+        self.user = "Will Dyer"
+        self.working_at = "Industrial Light & Magic"
+        self.title = "Graduate Creature Artist"
+        self.past_edu = "UHAnimation"
+        self.currently_learning = ["CFX", "Another Language"]
+        self.fun_fact = "I hate fish"
+        self.hobbies = [
+            "Music",
+            "Photography",
+            "Esports",
+            "Star Wars",
+        ]
+
+    def get_city(self):
+        """Return the current city."""
+        return "London Area"
+
+    def ambitions(self):
+        """List current ambitions."""
+        return [
+            "Start CFX job",
+            "Finish my projects",
+        ]
 	
  ```
 ## Currently Working on
