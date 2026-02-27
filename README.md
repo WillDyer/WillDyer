@@ -11,8 +11,6 @@
 
  ```python
   class WhoAmI:
-    """A simple representation of personal information and goals."""
-
     def __init__(self):
         self.user = "Will Dyer"
         self.working_at = "Industrial Light & Magic"
@@ -28,11 +26,9 @@
         ]
 
     def get_city(self):
-        """Return the current city."""
         return "London Area"
 
     def get_ambitions(self):
-        """List current ambitions."""
         return [
             "Start CFX job",
             "Finish my projects",
