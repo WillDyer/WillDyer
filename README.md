@@ -31,7 +31,7 @@
         """Return the current city."""
         return "London Area"
 
-    def ambitions(self):
+    def get_ambitions(self):
         """List current ambitions."""
         return [
             "Start CFX job",
