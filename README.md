@@ -14,7 +14,7 @@
     def __init__(self):
         self.user = "Will Dyer"
         self.working_at = "Industrial Light & Magic"
-        self.title = "Graduate Creature Artist"
+        self.title = "Junior Creature TD"
         self.past_edu = "UHAnimation"
         self.currently_learning = ["CFX", "Another Language"]
         self.fun_fact = "I hate fish"
